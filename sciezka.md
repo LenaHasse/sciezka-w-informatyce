@@ -3,8 +3,10 @@
 ## O mnie
 studentka informatyki w PJATK
 lubi kotki
-lubi pieski i pprg
-<span style="color: pink"> lubie kolorki </span>
+lubi pieski
+
+## Doswiadczenie
+Nauczycielka matematyki w minecraft
 
 ## Projekty
 Girls Do Engineering - Amazon Development Center
