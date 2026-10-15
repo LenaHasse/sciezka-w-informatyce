@@ -3,8 +3,10 @@
 ## O mnie
 studentka informatyki w PJATK
 lubi kotki
-lubi pieski i pprg
-<span style="color: pink"> lubie kolorki </span>
+lubi pieski
+
+## Doswiadczenie
+Nauczycielka matematyki w minecraft
 
 ## Projekty
 Girls Do Engineering - Amazon Development Center
@@ -15,11 +17,12 @@ Girls Do Engineering - Amazon Development Center
 - umiejetnosci dydaktyczne
 
 
-## Kursy
+## Kursy i Certyfikaty
 - PCAP - Programming Essentials in Python
+- CAE C1 Advanced
 
 ## Cele na studiach
-osiagnac sukces 
+satysfkacja ze swoich osiagniec
 
 
 *Work in progress...*
