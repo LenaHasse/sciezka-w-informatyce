@@ -20,3 +20,6 @@ Girls Do Engineering - Amazon Development Center
 
 ## Cele na studiach
 osiagnac sukces 
+
+
+*Work in progress...*
