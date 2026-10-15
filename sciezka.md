@@ -14,5 +14,8 @@ lubi pieski i pprg
 - umiejetnosci dydaktyczne
 
 
+## Kursy
+- PCAP - Programming Essentials in Python
+
 ## Cele na studiach
 osiagnac sukces 
