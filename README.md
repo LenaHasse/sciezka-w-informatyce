@@ -1,7 +1,13 @@
-## Heading 1
+## sciezka w informatyce
 Important information
 
-## Heading 2
-Another important information
+## Czego sie nauczylam
+- robic commity
+- robic pushe
+- poruszac sie miedzy galeziami
 
-Work in progress...
+## sciezka
+sciezka.md
+
+[Link do Markdown](https://www.markdownguide.org/basic-syntax/)
+Dokument został przygotowany w formacie Markdown.
