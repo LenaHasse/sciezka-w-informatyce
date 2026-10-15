@@ -7,7 +7,7 @@ Important information
 - poruszac sie miedzy galeziami
 
 ## sciezka
-sciezka.md
+[Zobacz sciezka.md](./sciezka.md)
 
 [Link do Markdown](https://www.markdownguide.org/basic-syntax/)
 Dokument został przygotowany w formacie Markdown.
